@@ -29,7 +29,7 @@ Graphiti: Bridging Graph and Relational Database Queries. *PLDI'25* <br>
 **Yang He**, Ruijie Fang, Isil Dillig, Yuepeng Wang <br>
 [paper] [[extended version]](https://arxiv.org/pdf/2504.03182) [[code]](https://github.com/simpl-group/Graphiti-artifact-evaluation) [slides]
 
-Synthesizing Document Database Queries using Collection Abstractions. ICSE'25 <br>
+Synthesizing Document Database Queries using Collection Abstractions. *ICSE'25* <br>
 Qikang Liu, **Yang He**, Yanwen Cai, Byeongguk Kwak, Yuepeng Wang <br>
 [paper] [[extended version]](https://arxiv.org/pdf/2412.06102) [[code]](https://github.com/simpl-group/nosdaq) [slides]
 
