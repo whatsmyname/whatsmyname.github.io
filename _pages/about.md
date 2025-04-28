@@ -42,6 +42,10 @@ VeriEQL: Bounded Equivalence Verification for Complex SQL Queries with Integrity
 **Distinguished Paper Award** <br>
 [[paper]](https://dl.acm.org/doi/10.1145/3649849) [[extended version]](https://arxiv.org/pdf/2403.03193) [[code]](https://github.com/VeriEQL/VeriEQL) [[slides]](assets/files/VeriEQL_OOPSLA24.key) <br>
 
+Deep Learning for Code Intelligence: Survey, Benchmark and Toolkit. *ACM Computing Surveys'24* <br>
+Yao Wan, Zhangqian Bi, **Yang He**, Jianguo Zhang, Hongyu Zhang, Yulei Sui, Guandong Xu, Hai Jin, Philip Yu <br>
+[[paper]](https://dl.acm.org/doi/10.1145/3664597) [[code]](https://github.com/CGCL-codes/naturalcc) <br>
+
 NaturalCC: an open-source toolkit for code intelligence. *ICSE'22 demo* <br>
 Yao Wan, **Yang He**, Zhangqian Bi, Jianguo Zhang, Yulei Sui, Hongyu Zhang, Kazuma Hashimoto, Hai Jin, Guandong Xu, Caiming Xiong, Philip S. Yu  <br>
 [[paper]](https://dl.acm.org/doi/abs/10.1145/3510454.3516863) [[code]](https://github.com/CGCL-codes/naturalcc) <br>
