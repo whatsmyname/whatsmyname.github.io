@@ -30,15 +30,15 @@ Graphiti: Bridging Graph and Relational Database Queries. *PLDI'25* <br>
 [paper] [[extended version]](https://arxiv.org/pdf/2504.03182) [[code]](https://github.com/simpl-group/Graphiti-artifact-evaluation) [slides]
 
 Synthesizing Document Database Queries using Collection Abstractions. ICSE'25 <br>
-Qikang Liu, Yang He, Yanwen Cai, Byeongguk Kwak, Yuepeng Wang <br>
+Qikang Liu, **Yang He**, Yanwen Cai, Byeongguk Kwak, Yuepeng Wang <br>
 [paper] [[extended version]](https://arxiv.org/pdf/2412.06102) [[code]](https://github.com/simpl-group/nosdaq) [slides]
 
 Demonstration of the VeriEQL Equivalence Checker for Complex SQL Queries. *VLDB'24 demo* <br>
-Pinhan Zhao*, **Yang He***, Xinyu Wang, Yuepeng Wang <br>
+Pinhan Zhao\*, **Yang He**\*, Xinyu Wang, Yuepeng Wang <br>
 [[paper]](https://dl.acm.org/doi/10.14778/3685800.3685894) [[poster]](assets/files/VLDB_onsite.pptx)
 
 VeriEQL: Bounded Equivalence Verification for Complex SQL Queries with Integrity Constraints. *OOPSLA'24* <br>
-**Yang He***, Pinhan Zhao*, Xinyu Wang, Yuepeng Wang <br>
+**Yang He**\*, Pinhan Zhao\*, Xinyu Wang, Yuepeng Wang <br>
 **Distinguished Paper Award** <br>
 [[paper]](https://dl.acm.org/doi/10.1145/3649849) [[extended version]](https://arxiv.org/pdf/2403.03193) [[code]](https://github.com/VeriEQL/VeriEQL) [[slides]](assets/files/VeriEQL_OOPSLA24.key) <br>
 
