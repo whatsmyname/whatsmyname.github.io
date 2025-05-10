@@ -31,7 +31,7 @@ Graphiti: Bridging Graph and Relational Database Queries. *PLDI'25* <br>
 
 Synthesizing Document Database Queries using Collection Abstractions. *ICSE'25* <br>
 Qikang Liu, **Yang He**, Yanwen Cai, Byeongguk Kwak, Yuepeng Wang <br>
-[paper] [[extended version]](https://arxiv.org/pdf/2412.06102) [[code]](https://github.com/simpl-group/nosdaq) [slides]
+[[paper]](https://doi.ieeecomputersociety.org/10.1109/ICSE55347.2025.00152) [[extended version]](https://arxiv.org/pdf/2412.06102) [[code]](https://github.com/simpl-group/nosdaq) [slides](assets/files/Nosdaq_ICSE25.pptx)
 
 Demonstration of the VeriEQL Equivalence Checker for Complex SQL Queries. *VLDB'24 demo* <br>
 Pinhan Zhao\*, **Yang He**\*, Xinyu Wang, Yuepeng Wang <br>
