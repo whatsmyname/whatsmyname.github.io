@@ -21,9 +21,9 @@ My research interest involves:
 Publications
 ============
 
-Synthesizing Optimal Object Selection Predicates for Image Editing using Lattices. *PLDI'25* <br>
-**Yang He**, Xiaoyu Liu, Yuepeng Wang <br>
-[paper] [[extended version]](https://arxiv.org/pdf/2504.03155) [[code]](https://github.com/simpl-group/ManiRender-artifact-evaluation) [slides]
+[//]: # (Synthesizing Optimal Object Selection Predicates for Image Editing using Lattices. *PLDI'25* <br>)
+[//]: # (**Yang He**, Xiaoyu Liu, Yuepeng Wang <br>)
+[//]: # ([paper] [[extended version]]&#40;https://arxiv.org/pdf/2504.03155&#41; [[code]]&#40;https://github.com/simpl-group/ManiRender-artifact-evaluation&#41; [slides])
 
 Graphiti: Bridging Graph and Relational Database Queries. *PLDI'25* <br>
 **Yang He**, Ruijie Fang, Isil Dillig, Yuepeng Wang <br>
