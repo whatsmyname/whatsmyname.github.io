@@ -25,9 +25,9 @@ Publications
 [//]: # (**Yang He**, Xiaoyu Liu, Yuepeng Wang <br>)
 [//]: # ([paper] [[extended version]]&#40;https://arxiv.org/pdf/2504.03155&#41; [[code]]&#40;https://github.com/simpl-group/ManiRender-artifact-evaluation&#41; [slides])
 
-SpotIt: Evaluating Text-to-SQL Evaluation with Formal Verification. *MATH-AI'2025 poster* <br>
-Rocky Klopfenstein, **Yang He**, Andrew Tremante, Yuepeng Wang, Nina Narodytska, Haoze Wu <br>
-[[paper]](https://openreview.net/pdf?id=RkCNWIgGWP)
+[//]: # (SpotIt: Evaluating Text-to-SQL Evaluation with Formal Verification. *MATH-AI'2025 poster* <br>)
+[//]: # (Rocky Klopfenstein, **Yang He**, Andrew Tremante, Yuepeng Wang, Nina Narodytska, Haoze Wu <br>)
+[//]: # ([[paper]]&#40;https://openreview.net/pdf?id=RkCNWIgGWP&#41;)
 
 Graphiti: Bridging Graph and Relational Database Queries. *PLDI'25* <br>
 **Yang He**, Ruijie Fang, Isil Dillig, Yuepeng Wang <br>
