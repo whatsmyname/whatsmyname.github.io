@@ -15,7 +15,9 @@ Research
 
 My research interest involves:
 - database verification
-- program synthesis
+- equivalence checking
+
+[//]: # (- program synthesis)
 
 
 Publications
