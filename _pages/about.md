@@ -27,6 +27,10 @@ Publications
 [//]: # (**Yang He**, Xiaoyu Liu, Yuepeng Wang <br>)
 [//]: # ([paper] [[extended version]]&#40;https://arxiv.org/pdf/2504.03155&#41; [[code]]&#40;https://github.com/simpl-group/ManiRender-artifact-evaluation&#41; [slides])
 
+FlexSQL: Flexible Exploration and Execution Make Better Text-to-SQL Agents. *COLM'26* <br>
+Quang Hieu Pham, **Yang He**, Ping Nie, Canwen Xu, Davood Rafiei, Yuepeng Wang, Xi Ye, Jocelyn Qiaochu Chen <br>
+[[paper]](https://arxiv.org/abs/2605.02815) [[code]](https://github.com/StringNLPLAB/FlexSQL)
+
 SpotIt: Evaluating Text-to-SQL Evaluation with Formal Verification. *ICLR'26* <br>
 Rocky Klopfenstein\*, **Yang He**\*, Andrew Tremante\*, Yuepeng Wang, Nina Narodytska, Haoze Wu <br>
 [[paper]](https://arxiv.org/abs/2510.26840) [[code]](https://github.com/atremante26/VeriEQL/tree/extension)
