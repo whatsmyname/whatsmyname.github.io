@@ -60,9 +60,9 @@ NaturalCC: an open-source toolkit for code intelligence. *ICSE'22 demo* <br>
 Yao Wan, **Yang He**, Zhangqian Bi, Jianguo Zhang, Yulei Sui, Hongyu Zhang, Kazuma Hashimoto, Hai Jin, Guandong Xu, Caiming Xiong, Philip S. Yu  <br>
 [[paper]](https://dl.acm.org/doi/abs/10.1145/3510454.3516863) [[code]](https://github.com/CGCL-codes/naturalcc) <br>
 
-Enhancing RNN Based OCR by Transductive Transfer Learning from Text to Images. *AAAI'18 student abstract*
-**Yang He**, Jingling Yuan, Lin Li
-[[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16751/16479)
+Enhancing RNN Based OCR by Transductive Transfer Learning from Text to Images. *AAAI'18 student abstract* <br>
+**Yang He**, Jingling Yuan, Lin Li <br>
+[[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16751/16479) <br>
 
 Personal
 ============
