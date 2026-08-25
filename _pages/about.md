@@ -14,7 +14,7 @@ Research
 ============
 
 My research interest involves:
-- database verification
+- program verification
 - equivalence checking
 
 [//]: # (- program synthesis)
