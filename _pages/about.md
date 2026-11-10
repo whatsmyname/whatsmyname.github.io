@@ -28,7 +28,8 @@ Publications
 [//]: # ([paper] [[extended version]]&#40;https://arxiv.org/pdf/2504.03155&#41; [[code]]&#40;https://github.com/simpl-group/ManiRender-artifact-evaluation&#41; [slides])
 
 FocusBranch: Combinatorial Branch-and-Bound for $\ell_0$ Neural Network Robustness Verification. *NeurIPS'26* <br>
-Renwei Deng, **Yang He**, Linyi Li, Yuepeng Wang
+Renwei Deng, **Yang He**, Linyi Li, Yuepeng Wang <br>
+[[paper]](https://arxiv.org/abs/2611.12024) [[code]](https://github.com/simpl-group/FocusBranch)
 
 FlexSQL: Flexible Exploration and Execution Make Better Text-to-SQL Agents. *COLM'26* <br>
 Quang Hieu Pham, **Yang He**, Ping Nie, Canwen Xu, Davood Rafiei, Yuepeng Wang, Xi Ye, Jocelyn Qiaochu Chen <br>
